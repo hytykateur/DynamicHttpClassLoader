@@ -14,3 +14,5 @@ public class Main {
     }
 }
 ```
+### Todo
+- getResource & getResourceAsStream
